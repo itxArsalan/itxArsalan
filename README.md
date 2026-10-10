@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Hi%2C+I%27m+Salar+%F0%9F%91%8B;Aspiring+LLM+Engineer;Learning+in+Public+%F0%9F%8C%B1;Building+AI+from+Scratch+%F0%9F%A4%96" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Hi%2C+I%27m+Arsalan+%F0%9F%91%8B;Aspiring+LLM+Engineer;Learning+in+Public+%F0%9F%8C%B1;Building+AI+from+Scratch+%F0%9F%A4%96" />
 
 <br/>
 
@@ -16,7 +16,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0EA5E9,100:8B5CF6&height=75&text=About%20Me&fontSize=28&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-I'm Salar — teaching myself to become an **LLM engineer, starting from absolute zero**.
+I'm Arsalan — teaching myself to become an **LLM engineer, starting from absolute zero**.
 
 No shortcuts, no copy-pasted code. I'm learning in public and building everything with my own hands, one phase at a time.
 
